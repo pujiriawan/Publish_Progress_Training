@@ -1,3 +1,10 @@
+# Assigment Certification
+| No. |  Certification Name | Certification Target  | Reference | Progress | Notes  |
+|-----|---------------------|-----------------------|-----------|----------|--------|
+| 1.  | Thales Luna 7 HSM Professional | Week Four May |  <ul><li>[ ] Sumbit Dokumen Approval</li><li>[ ] Submit Dokumen Approval ke Evans Apps</li><li>[ ] Attend Training Online</li><li>[ ] Attend Training Offline</li><li>[ ] Courses Completed</li><li>[ ] Pass Exam Resulted</li><li>[ ] Failed Exam Resulted</li></ul> | https://cpl.thalesgroup.com/technical-training-calendar/2023/06/apac/Thales-CTM-certification-online | Renew Certification |
+
+# Assigment Courses
+
 | No. |  Course Name | Activity | Progress Checklist | Run in Hostname | Duration  | Notes  | Prerequisites |
 |:-----|:--------------|:----------|:----------|:----------|:-----------|:--------|:---------------|
 | 1. | Docker Certified Associate | Chapter 1 Introduction | <ul><li>[x] Completed</li></ul> | 11 minute |  day | Login Account presales-msi.outlook.com | Cloud Guru |

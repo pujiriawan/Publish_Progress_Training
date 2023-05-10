@@ -24,3 +24,12 @@
 |   |   | Module 12 Vault Agent | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 13 Vault Dynamic Secrets | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 14 Vault Onboarding Applications | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+| 3. | Practical Web Application Security and Testing | Prologue | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Setup | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Web Application Concept | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Server Side Web Apps | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | The OWASP Top 10 | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Client Side Web Apps | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Webapp Pentesting Methodologys | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Juice Shop Pentest | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Reporting | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |

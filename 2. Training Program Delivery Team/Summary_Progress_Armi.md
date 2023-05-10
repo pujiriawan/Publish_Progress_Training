@@ -1,7 +1,7 @@
 | No. |  Course Name | Activity | Progress Checklist | Run in Hostname | Duration  | Notes  | Prerequisites |
 |:-----|:--------------|:----------|:----------|:----------|:-----------|:--------|:---------------|
 | 1. | Docker Certified Associate | Chapter 1 Introduction | <ul><li>[x] Completed</li></ul> | 27 Maret 2023 |  11 Minute | Login Account presales-msi.outlook.com | Cloud Guru |
-|   |  | Chapter 2 Docker Community Edition Installation and Configuration | <ul><li>[x] Completed</li></ul> | xxx |  3 hours 15 minute | 12 April 2023_ | N/A |
+|   |  | Chapter 3 CHAPTER 3.Image Creation, Management, and Registry_ | <ul><li>[x] Completed</li></ul> | xxx |  3 hours 15 minute | 5 Mei 2023 | N/A |
 |   |  | Chapter 4 Lifecycle and Maintenance | <ul><li>[x] Completed</li></ul> | xxx |  3 hours 15 minute | N/A | 3 April 2023 |
 |   |  | Chapter 4 Orchestration | <ul><li>[ ] Completed</li></ul> | xxx |  3 hours  | N/A | N/A |
 |   |  | Chapter 5 Storage and Volumes | <ul><li>[ ] Completed</li></ul> | xxx |  2 hours | N/A | N/A |
@@ -10,7 +10,7 @@
 |   |  | Chapter 8 Docker Enterprise | <ul><li>[ ] Completed</li></ul> | xxx |  2 hours  | N/A | N/A |
 |   |  | Chapter 9 Docker Kubernetes Service | <ul><li>[ ] Completed</li></ul> | xxx |  3 hours  | N/A | N/A |
 |                                                                                                     ||||||||
-| 2. | Securing the Web with Cisco Web Security Appliance (SWSA) v3.0 | Chapter 7.7 Configure WSA to inspect archive file types | <ul><li>[x] Completed</li></ul> | xxx |  3 hours  | 12 April 2023 | N/A |
+| 2. | Securing the Web with Cisco Web Security Appliance (SWSA) v3.0 | Chapter 8.0 Malware Defense | <ul><li>[x] Completed</li></ul> | xxx |  3 hours  | 5 Mei 2023 update_ | N/A |
 | 3. | Vault Implementation Foundations | Module 1 Vault Architecture | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 2 Vault Deployment Guidelines | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 3 Vault Configuration | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
