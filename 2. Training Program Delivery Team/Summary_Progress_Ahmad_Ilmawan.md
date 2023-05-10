@@ -1,7 +1,7 @@
 # Assigment Certification
 | No. |  Certification Name | Certification Target  | Reference | Progress | Notes  |
 |-----|---------------------|-----------------------|-----------|----------|--------|
-| 1.  | Thales Luna 7 HSM Professional | Week One June |  <ul><li>[ ] Sumbit Dokumen Approval</li><li>[ ] Submit Dokumen Approval ke Evans Apps</li><li>[ ] Attend Training Online</li><li>[ ] Attend Training Offline</li><li>[ ] Courses Completed</li><li>[ ] Pass Exam Resulted</li><li>[ ] Failed Exam Resulted</li></ul> | https://cpl.thalesgroup.com/technical-training-calendar/2023/06/apac/Thales-CTM-certification-online | Renew Certification |
+| 1.  | Thales Luna 7 HSM Professional | Week Four May |  <ul><li>[ ] Sumbit Dokumen Approval</li><li>[ ] Submit Dokumen Approval ke Evans Apps</li><li>[ ] Attend Training Online</li><li>[ ] Attend Training Offline</li><li>[ ] Courses Completed</li><li>[ ] Pass Exam Resulted</li><li>[ ] Failed Exam Resulted</li></ul> | https://cpl.thalesgroup.com/technical-training-calendar/2023/06/apac/Thales-CTM-certification-online | Renew Certification |
 
 # Assigment Courses
 
