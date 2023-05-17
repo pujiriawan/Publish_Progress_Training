@@ -19,7 +19,7 @@
 |----|---------------|---------------------|-------------------|-----------------|----------|-------|
 | 1  | BTN | Faisal Irsyadi | Yonatan S | Ciphertrust | N/A | N/A |
 | 2 | Adira | Anggi Armi | Yonatan S. | Ciphertrust | N/A | N/A |
-| 3 | Alto | Theodorus & Oktavian | Yonatan S. | Hashicorp Vault for API | <ul><li>- [x] Instalasi Vault di Infra Alto</li><li>- [ ] Integrasi API dengan Hashicorp Vault</li><li>- [ ] Testing Feature Vault</li></ul> | N/A |
+| 3 | Alto | Theodorus & Oktavian | Yonatan S. | Hashicorp Vault for API | <ul><li>- [x] Instalasi Vault di Infra Alto</li><li>- [ ] Integrasi API dengan Hashicorp Vault</li><li>- [ ] Preparation Configuration for Secret Management</li><li>- [ ] Preparation Configuration for Dynamic Credential for MySQL Database</li><li>- [ ] Preparation Configuration for Encryption as a Service Transit Secret Enginer</li><li>- [ ] Preparation Configuration for FPE</li><li>- [ ] Secret Management for Docker Swarn via API</li></ul> | N/A |
 | 4 | BTN | Oktavian | Rendy K | Okta IAM |  N/A | N/A |
 | 5 | Gudang Garam | Faisal Irsyadi | Windhu S | Crowdstrike NGAV & XDR |  N/A | N/A |
 | 6 | Pertamina | Faisal Irsyadi | Windhu S. | Crowdstrike NGAV & XDR |  N/A | N/A |
