@@ -12,10 +12,10 @@
 | 2. | Vault Implementation Foundations | Module 1 Vault Architecture | <ul><li>[x] Completed</li></ul> | xxx |  1 hour  | N/A | N/A |
 |   |   | Module 2 Vault Deployment Guidelines | <ul><li>[x] Completed</li></ul> | xxx |  2 hours  | N/A | N/A |
 |   |   | Module 3 Vault Configuration | <ul><li>[x] Completed</li></ul> | xxx |  2 hours  | N/A | N/A |
-|   |   | Module 4 Vault Operations | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 5 Vault Replication | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 6 Vault Deployment Automation | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 7 Vault Incident Management | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Module 4 Vault Operations | <ul><li>[x] Completed</li></ul> | xxx |  2 hours  | N/A | N/A |
+|   |   | Module 5 Vault Replication | <ul><li>[x] Completed</li></ul> | xxx |  1 hour  | N/A | N/A |
+|   |   | Module 6 Vault Deployment Automation | <ul><li>[x] Completed</li></ul> | xxx |  30 minutes  | N/A | N/A |
+|   |   | Module 7 Vault Incident Management | <ul><li>[x] Completed</li></ul> | xxx |  30 minutes  | N/A | N/A |
 |   |   | Module 8 Vault Tokens | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 9 Vault Policies | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 10 Vault Auth Methods | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
