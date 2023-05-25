@@ -17,8 +17,8 @@
 
 | No. |  Course Name | Activity | Progress Checklist | Run in Hostname | Duration  | Notes  | Prerequisites |
 |:-----|:--------------|:----------|:----------|:----------|:-----------|:--------|:---------------|
-| 1. | Docker Certified Associate | Chapter 1 Introduction | <ul><li>[x] Completed</li></ul> | N/A |  11 Minute | Login Account presales-msi.outlook.com | Cloud Guru |
-|   |  | Chapter 2 Docker Community Edition Installation and Configuration | <ul><li>[] Completed</li></ul> | xxx |  3 hours 15 minute | N/A | N/A |
+| 1. | Docker Certified Associate | Chapter 1 Introduction | <ul><li>[X] Completed</li></ul> | N/A |  11 Minute | Login Account presales-msi.outlook.com | Cloud Guru |
+|   |  | Chapter 2 Docker Community Edition Installation and Configuration | <ul><li>[X] Completed</li></ul> | xxx |  3 hours 15 minute | N/A | N/A |
 |   |  | Chapter 3 Image Creation, Management, and Registry | <ul><li>[] Completed</li></ul> | xxx |  3 hours 15 minute | N/A | N/A |
 |   |  | Chapter 4 Orchestration | <ul><li>[] Completed</li></ul> | xxx |  3 hours  | N/A | N/A |
 |   |  | Chapter 5 Storage and Volumes | <ul><li>[] Completed</li></ul> | xxx |  2 hours | N/A | N/A |
