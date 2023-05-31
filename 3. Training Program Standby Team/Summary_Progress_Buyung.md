@@ -11,4 +11,18 @@
 | | | <ul>6. Installatin Audit Log Collector Server </ul><ul>7. Connecting Log Collector to DB Server</ul> | <ul><li>[x] Completed</li></ul><ul><li>[x] Completed</li></ul> | BUYUNG-REPORTING-SERVER | 2 Days | N/A |  Prerequisites : <ul>1. DB Server</ul><ul>2. Microsoft Internet Information Services (IIS)</ul><ul>3. Microsoft .Net Framework</ul><ul>4. Microsoft Message Queuing (MSMQ)</ul><ul>5. Microsoft Distributed Transaction Coordinator (MSDTC)</ul> |
 | 2. | Hands On Testing On Titus Admin Console | <ul>1. Accessing Titus Admin Console via Web browser</ul><ul>2. Upload Configuration for publish to Client</ul> | <ul><li>[x] Completed</li></ul><ul><li>[x] Completed</li></ul> | PUJI-TITUS-CORE | 1 Days | N/A | N/A |
 | 3. | Hands On Testing On Titus Classification Suite Client | <ul>1. Verify configuration Already on client</ul><ul>2. Testing Set a classification for Document</ul> | <ul><li>[x] Completed</li></ul><ul><li>[x] Completed</li></ul> | BUYUNG-TITUS-CLIENT | 1 Days | N/A | N/A |
-| 3. | Hands On Testing On Titus Reporting Server | <ul>1. Verify Connection to DB Server </ul><ul>2. Verify client can send log to DB server</ul> | <ul><li>[x] Completed</li></ul><ul><li>[x] Completed</li></ul> | BUYUNG-REPORTING-SERVER | 1 Days | N/A | N/A |
+| 4. | Hands On Testing On Titus Reporting Server | <ul>1. Verify Connection to DB Server </ul><ul>2. Verify client can send log to DB server</ul> | <ul><li>[x] Completed</li></ul><ul><li>[x] Completed</li></ul> | BUYUNG-REPORTING-SERVER | 1 Days | N/A | N/A |
+| 5. | Installation TITUS OWA | <ul>1. Install Titus Service </ul><ul>2. Install Titus OWA</ul><ul>3. Enabled Policy Onsend on OWA</ul> | <ul><li>[x] Completed</li></ul><ul><li>[x] Completed</li></ul><ul><li>[x] Completed</li></ul> | TITUS OWA SERVER | 7 Days | N/A | N/A |
+|                                                                                                     ||||||||
+
+| No. |  Course Name | Activity | Progress Checklist | Run in Hostname | Duration  | Notes  | Prerequisites |
+|:-----|:--------------|:----------|:----------|:----------|:-----------|:--------|:---------------|
+| 1. | Docker Certified Associate | Chapter 1 Introduction | <ul><li>[X] Completed</li></ul> | N/A |  11 Minute | Login Account presales-msi.outlook.com | Cloud Guru |
+|   |  | Chapter 2 Docker Community Edition Installation and Configuration | <ul><li>[X] Completed</li></ul> | xxx |  3 hours 15 minute | N/A | N/A |
+|   |  | Chapter 3 Image Creation, Management, and Registry | <ul><li>[] Completed</li></ul> | xxx |  3 hours 15 minute | N/A | N/A |
+|   |  | Chapter 4 Orchestration | <ul><li>[] Completed</li></ul> | xxx |  3 hours  | N/A | N/A |
+|   |  | Chapter 5 Storage and Volumes | <ul><li>[] Completed</li></ul> | xxx |  2 hours | N/A | N/A |
+|   |  | Chapter 6 Networking | <ul><li>[] Completed</li></ul> | xxx |  2 hour | N/A | N/A |
+|   |  | Chapter 7 Security | <ul><li>[ ] Completed</li></ul> | xxx |  1 hour | N/A | N/A |
+|   |  | Chapter 8 Docker Enterprise | <ul><li>[ ] Completed</li></ul> | xxx |  2 hours  | N/A | N/A |
+|   |  | Chapter 9 Docker Kubernetes Service | <ul><li>[ ] Completed</li></ul> | xxx |  3 hours  | N/A | N/A |

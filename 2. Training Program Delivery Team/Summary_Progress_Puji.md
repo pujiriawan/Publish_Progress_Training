@@ -24,3 +24,17 @@
 |   |   | Module 12 Vault Agent | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 13 Vault Dynamic Secrets | <ul><li>[x] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 14 Vault Onboarding Applications | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+
+# Deploy Environment Demo for PoC Hashicopr Vault
+| Technology Name |  Prerequisite | How to the Demo |
+|-----------------|-----------|-----------------|
+| Secret Management (Vault) | <ul><li>- [ ] Deploy Single Cluster Hashicorp Vault</li><li>- [ ] Deploy MySQL Database for Dynamic Secret</li></ul> | N\A |
+
+
+# Deploy Demo Application Ciphertrust Application Data Protection using Java
+The guide will reference on [this](https://github.com/thalescpl-io/CipherTrust_Application_Protection)
+
+
+| Technology Name |  Prerequisite | How to the Demo |
+|-----------------|-----------|-----------------|
+| REST WEB Service for Vaulted Tokenization | <ul><li>- [ ] [Prerequisite](https://github.com/thalescpl-io/CipherTrust_Application_Protection/tree/master/miscellaneous/java/Tomcat_based_app)</li></ul> | N\A |
