@@ -16,10 +16,10 @@
 |   |   | Module 5 Vault Replication | <ul><li>[x] Completed</li></ul> | xxx |  1 hour  | N/A | N/A |
 |   |   | Module 6 Vault Deployment Automation | <ul><li>[x] Completed</li></ul> | xxx |  30 minutes  | N/A | N/A |
 |   |   | Module 7 Vault Incident Management | <ul><li>[x] Completed</li></ul> | xxx |  30 minutes  | N/A | N/A |
-|   |   | Module 8 Vault Tokens | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 9 Vault Policies | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 10 Vault Auth Methods | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 11 Vault Static Secrets | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 12 Vault Agent | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 13 Vault Dynamic Secrets | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 14 Vault Onboarding Applications | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Module 8 Vault Tokens | <ul><li>[x] Completed</li></ul> | xxx |  30 minutes  | N/A | N/A |
+|   |   | Module 9 Vault Policies | <ul><li>[x] Completed</li></ul> | xxx |  1 hour  | N/A | N/A |
+|   |   | Module 10 Vault Auth Methods | <ul><li>[x] Completed</li></ul> | xxx |  1 hour  | N/A | N/A |
+|   |   | Module 11 Vault Static Secrets | <ul><li>[x] Completed</li></ul> | xxx |  30 minutes  | N/A | N/A |
+|   |   | Module 12 Vault Agent | <ul><li>[ ] Completed</li></ul> | xxx |  1 hour  | N/A | N/A |
+|   |   | Module 13 Vault Dynamic Secrets | <ul><li>[x] Completed</li></ul> | xxx |  2 hours  | N/A | N/A |
+|   |   | Module 14 Vault Onboarding Applications | <ul><li>[x] Completed</li></ul> | xxx |  30 minutes  | N/A | N/A |
