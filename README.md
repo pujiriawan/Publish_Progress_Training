@@ -19,11 +19,11 @@
 |----|---------------|---------------------|-------------------|-----------------|----------|-------|
 | 1  | BTN | Faisal Irsyadi | Yonatan S | Ciphertrust | N/A | N/A |
 | 2 | Adira | Anggi Armi | Yonatan S. | Ciphertrust | N/A | N/A |
-| 3 | Alto | Theodorus & Oktavian | Yonatan S. | Hashicorp Vault for API | <ul><li>- [x] Instalasi Vault di Infra Alto</li><li>- [ ] Integrasi API dengan Hashicorp Vault</li><li>- [ ] Preparation Configuration for Secret Management</li><li>- [ ] Preparation Configuration for Dynamic Credential for MySQL Database</li><li>- [ ] Preparation Configuration for Encryption as a Service Transit Secret Enginer</li><li>- [ ] Preparation Configuration for FPE</li><li>- [ ] Secret Management for Docker Swarn via API</li></ul> | N/A |
-| 4 | BTN | Oktavian | Rendy K | Okta IAM |  N/A | N/A |
+| 3 | Alto | Theodorus & Oktafian | Yonatan S. | Hashicorp Vault for API | <ul><li>- [x] Instalasi Vault di Infra Alto</li><li>- [ ] Integrasi API dengan Hashicorp Vault</li><li>- [ ] Preparation Configuration for Secret Management</li><li>- [ ] Preparation Configuration for Dynamic Credential for MySQL Database</li><li>- [ ] Preparation Configuration for Encryption as a Service Transit Secret Enginer</li><li>- [ ] Preparation Configuration for FPE</li><li>- [ ] Secret Management for Docker Swarn via API</li></ul> | N/A |
+| 4 | BTN | Oktafian | Rendy K | Okta IAM |  <ul><li>- [x] Discussion with AD Team</li><li>- [ ] </li>| N/A |
 | 5 | Gudang Garam | Faisal Irsyadi | Windhu S | Crowdstrike NGAV & XDR |  N/A | N/A |
 | 6 | Pertamina | Faisal Irsyadi | Windhu S. | Crowdstrike NGAV & XDR |  N/A | N/A |
 | 7 | BCA |  Ahmad Ilmawan | Windhu S. | Venafi SSL Certificate Management |  N/A | N/A |
 | 8 | BCA | Ahmad Ilmawan | Nur Azizah | Thales Base 24 |  N/A | N/A |
-| 9 | BI | Oktavian | Nur Azizah | Thales CCC BI |  N/A | N/A |
+| 9 | BI | Oktafian | Nur Azizah | Thales CCC BI |  N/A | N/A |
 | 10 | Bank Jateng | Theodorus | Yonathan | Ciphertust for API Backend | |  N/A | N/A |
