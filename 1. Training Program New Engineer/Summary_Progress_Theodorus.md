@@ -7,8 +7,8 @@
 |   |  | Chapter 5 Storage and Volumes | <ul><li>[x] Completed</li></ul> | xxx |  2 hours | N/A | N/A |
 |   |  | Chapter 6 Networking | <ul><li>[x] Completed</li></ul> | xxx |  2 hour | N/A | N/A |
 |   |  | Chapter 7 Security | <ul><li>[x] Completed</li></ul> | xxx |  1 hour | N/A | N/A |
-|   |  | Chapter 8 Docker Enterprise | <ul><li>[ ] Completed</li></ul> | xxx |  2 hours  | N/A | N/A |
-|   |  | Chapter 9 Docker Kubernetes Service | <ul><li>[ ] Completed</li></ul> | xxx |  3 hours  | N/A | N/A |
+|   |  | Chapter 8 Docker Enterprise | <ul><li>[x] Completed</li></ul> | xxx |  2 hours  | N/A | N/A |
+|   |  | Chapter 9 Docker Kubernetes Service | <ul><li>[x] Completed</li></ul> | xxx |  3 hours  | N/A | N/A |
 | 2. | Vault Implementation Foundations | Module 1 Vault Architecture | <ul><li>[x] Completed</li></ul> | xxx |  1 hour  | N/A | N/A |
 |   |   | Module 2 Vault Deployment Guidelines | <ul><li>[x] Completed</li></ul> | xxx |  2 hours  | N/A | N/A |
 |   |   | Module 3 Vault Configuration | <ul><li>[x] Completed</li></ul> | xxx |  2 hours  | N/A | N/A |
