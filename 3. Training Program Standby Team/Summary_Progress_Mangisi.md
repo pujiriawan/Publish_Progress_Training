@@ -14,12 +14,12 @@
 |   |   | Module 2 Vault Deployment Guidelines | <ul><li>[X] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 3 Vault Configuration | <ul><li>[X] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 4 Vault Operations | <ul><li>[X] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 5 Vault Replication | <ul><li>[On Progress 45%] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 6 Vault Deployment Automation | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 7 Vault Incident Management | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 8 Vault Tokens | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 9 Vault Policies | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
-|   |   | Module 10 Vault Auth Methods | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Module 5 Vault Replication | <ul><li>[X] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Module 6 Vault Deployment Automation | <ul><li>[X] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Module 7 Vault Incident Management | <ul><li>[X] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Module 8 Vault Tokens | <ul><li>[X] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Module 9 Vault Policies | <ul><li>[X] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
+|   |   | Module 10 Vault Auth Methods | <ul><li>[17%] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 11 Vault Static Secrets | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 12 Vault Agent | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
 |   |   | Module 13 Vault Dynamic Secrets | <ul><li>[ ] Completed</li></ul> | xxx |  xxx  | N/A | N/A |
