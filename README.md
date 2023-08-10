@@ -1,10 +1,14 @@
-| Cell1 | Cell2 | Cell3 |
-|------|-------|-------|
-| merge right ||       |
-| merge |       |       |
-| below | ^      |^      |
-| merge both  || value1 |
-|^            || value2| 
+|              | Header 1        | Header 2                       || Header 3                       ||
+|              | Subheader 1     | Subheader 2.1  | Subheader 2.2  | Subheader 3.1  | Subheader 3.2  |
+|==============|-----------------|----------------|----------------|----------------|----------------|
+| Row Header 1 | 3row, 3col span                                 ||| Colspan only                   ||
+| Row Header 2 |       ^                                         ||| Rowspan only   | Cell           |
+| Row Header 3 |       ^                                         |||       ^        | Cell           |
+| Row Header 4 |  Row            |  Each cell     |:   Centered   :| Right-aligned :|: Left-aligned  |
+:              :  with multiple  :  has room for  :   multi-line   :    multi-line  :  multi-line    :
+:              :  lines.         :  more text.    :      text.     :         text.  :  text.         :
+|--------------|-----------------|----------------|----------------|----------------|----------------|
+[Caption Text]
 
 # Summary Course Assigment To-Do, Assignment Certification and Certification Holder Team Delivery
 Gambar dibawah ini merupakan traning dan sertifikasi path yang harus diambil oleh team delivery.
