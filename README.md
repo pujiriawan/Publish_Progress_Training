@@ -1,14 +1,12 @@
-|              | Header 1        | Header 2                       || Header 3                       ||
-|              | Subheader 1     | Subheader 2.1  | Subheader 2.2  | Subheader 3.1  | Subheader 3.2  |
-|==============|-----------------|----------------|----------------|----------------|----------------|
-| Row Header 1 | 3row, 3col span                                 ||| Colspan only                   ||
-| Row Header 2 |       ^                                         ||| Rowspan only   | Cell           |
-| Row Header 3 |       ^                                         |||       ^        | Cell           |
-| Row Header 4 |  Row            |  Each cell     |:   Centered   :| Right-aligned :|: Left-aligned  |
-:              :  with multiple  :  has room for  :   multi-line   :    multi-line  :  multi-line    :
-:              :  lines.         :  more text.    :      text.     :         text.  :  text.         :
-|--------------|-----------------|----------------|----------------|----------------|----------------|
-[Caption Text]
+| Head A | Spanned Header ||
+| Head B | Head C | Head D |
+|:-------|:------:|:------:|
+| 1A     |    1B  |    1C  |
+| 2A    ^|    2B  |    2C  |
+| 3A    ^|    3B       3C ||
+| 4A     |    4B       4C^||
+| 5A    ^|    5B  |    5C  |
+| 6A     |    6B ^|    6C  |
 
 # Summary Course Assigment To-Do, Assignment Certification and Certification Holder Team Delivery
 Gambar dibawah ini merupakan traning dan sertifikasi path yang harus diambil oleh team delivery.
