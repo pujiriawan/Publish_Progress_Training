@@ -1,10 +1,10 @@
-| Cell1| Cell2 | Cell3 |
+| Cell1 | Cell2 | Cell3 |
 |------|-------|-------|
 | merge right ||       |
-| merge|       |       |
-| below|^      |^      |
-| merge both  || value1|
-|^            || value2|
+| merge |       |       |
+| below | ^      |^      |
+| merge both  || value1 |
+|^            || value2| 
 
 # Summary Course Assigment To-Do, Assignment Certification and Certification Holder Team Delivery
 Gambar dibawah ini merupakan traning dan sertifikasi path yang harus diambil oleh team delivery.
