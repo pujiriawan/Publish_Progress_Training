@@ -1,18 +1,68 @@
-| Head A | Spanned Header ||
-| Head B | Head C | Head D |
-|:-------|:------:|:------:|
-| 1A     |    1B  |    1C  |
-| 2A    ^|    2B  |    2C  |
-| 3A    ^|    3B       3C ||
-| 4A     |    4B       4C^||
-| 5A    ^|    5B  |    5C  |
-| 6A     |    6B ^|    6C  |
+| 1 | 2 |
+|---|---|
+|   1  ||
 
 # Summary Course Assigment To-Do, Assignment Certification and Certification Holder Team Delivery
 Gambar dibawah ini merupakan traning dan sertifikasi path yang harus diambil oleh team delivery.
 ![Assignment Training dan Sertifikasi](./Reference/Training_Program_Delivery_Team.drawio.svg)
 
 Progress untuk masing - masing individu adalah sebagai berikut ini :
+
+<table>
+<thead>
+  <tr>
+    <th>Engineer Name</th>
+    <th>Training dan Sertifikasi</th>
+    <th>Progress Training &amp; Sertifikasi</th>
+    <th>Exam Target</th>
+    <th>Notes</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">Puji Riawan</td>
+    <td>Hashicorp Vault Associate</td>
+    <td>![100%](https://progress-bar.dev/100/?title=Hashicorp%20Vault%20Implementation%20Fondation)
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ZScaler Internet Access Professional </td>
+    <td>N/A</td>
+    <td> ![ ](https://geps.dev/progress/10)</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Ahmad Ilmawan</td>
+    <td>Crowdstrike</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Faisal</td>
+    <td>Trellix</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Oktafian</td>
+    <td>ZScaler Internet Access Professional</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Anggi Armi</td>
+    <td>Cisco Certified Specialist Web Content Security</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 | Nama Engineer | Training dan Sertifikasi | Progress | Exam Target  | Certification Holder |
 |---------------------|-----------------------|----------|--------|-------------------------|
