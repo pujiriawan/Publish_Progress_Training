@@ -8,65 +8,14 @@ Gambar dibawah ini merupakan traning dan sertifikasi path yang harus diambil ole
 
 Progress untuk masing - masing individu adalah sebagai berikut ini :
 
-<table>
-<thead>
-  <tr>
-    <th>Engineer Name</th>
-    <th>Training dan Sertifikasi</th>
-    <th>Progress Training &amp; Sertifikasi</th>
-    <th>Exam Target</th>
-    <th>Notes</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="2">Puji Riawan</td>
-    <td>Hashicorp Vault Associate</td>
-    <td>![100%](https://progress-bar.dev/100/?title=Hashicorp%20Vault%20Implementation%20Fondation)
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>ZScaler Internet Access Professional </td>
-    <td>N/A</td>
-    <td> ![ ](https://geps.dev/progress/10)</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Ahmad Ilmawan</td>
-    <td>Crowdstrike</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Faisal</td>
-    <td>Trellix</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Oktafian</td>
-    <td>ZScaler Internet Access Professional</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Anggi Armi</td>
-    <td>Cisco Certified Specialist Web Content Security</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
 
 | Nama Engineer | Training dan Sertifikasi | Progress | Exam Target  | Certification Holder |
 |---------------------|-----------------------|----------|--------|-------------------------|
-| Puji Riawan | <ul><li>- [x] Hashicorp Vault Implementation Fondation</li><li>- [x] Ciphertrust Manager Professional Certification Course</li><li>- [x] Ciphertrust DPG for Sample Banking Apps Protect Sensitive Data in Databases</li><li>- [ ] Ciphertrust Application Data Protection for Java Web Service Tomcat</li></ul> | <ul><li> - [x] ![100%](https://progress-bar.dev/100/?title=Hashicorp%20Vault%20Implementation%20Fondation) </li><li> - [x] ![100%](https://progress-bar.dev/100/?title=Submit_Evans) </li><li> - [x] ![100%](https://progress-bar.dev/100/?title=Ciphertrust%20Manager%20Professional%20Certification%20Course) </li><li> - [x] ![100%](https://progress-bar.dev/100/?title=Ciphertrust%20DPG%20for%20Sample%20Banking%20Apps%20Protect%20Sensitive%20Data%20in%20Databases) </li><li> - [x] ![50%](https://progress-bar.dev/50/?title=Ciphertrust%20Application%20Data%20Protection%20for%20Java%20Web%20Service%20Tomcat) </li><li> - [ ] ![0%](https://progress-bar.dev/0/?title=Take_Exam) </li><li> - [ ] Exam Result Failed</li><li> - [x] Exam Result Pass</li></ul>| Training Start At 12-16 June 2023, Exam Target 14 July 2023 | <li><lu>- [ ] SAS/STA Certified Engineer (Expired)</li><li>- [ ] Luna 7 Certified Engineer (Expired)</li><li>- [x] Payshield 10K Certified Engineer</li><li>- [x] Cisco Duo Administration & Security</li><li>- [x] Thales Ciphertrust Manager Professional</li></lu> |
+| Puji Riawan | <ul><li>- [x] Hashicorp Vault Implementation Foundation </li></ul> | <ul><li> - [x] ![100%](https://progress-bar.dev/100/?title=Hashicorp%20Vault%20Implementation%20Fondation) </li></ul>| N/A | <li><lu>- [ ] SAS/STA Certified Engineer (Expired)</li><li>- [ ] Luna 7 Certified Engineer (Expired)</li><li>- [x] Payshield 10K Certified Engineer</li><li>- [x] Cisco Duo Administration & Security</li><li>- [x] Thales Ciphertrust Manager Professional</li></lu> |
+| | <ul><li>- [x] Hashicorp Vault Associate </li></ul> | <ul><li> - [x] ![100%](https://progress-bar.dev/100/?title=Hashicorp%20Vault%20Associate%20) </li><li> - [x] ![100%](https://progress-bar.dev/100/?title=Vault_Associate) </li></ul>| N/A | |
+
+
+
 | Ahmad Ilmawan | Ciphertrust Manager Professional Certification Course | <ul><li> - [x] ![100%](https://progress-bar.dev/100/?title=Submit_Evans) </li><li> - [ ] ![0%](https://progress-bar.dev/0/?title=Training_On_Progress) </li><li> - [ ] ![0%](https://progress-bar.dev/0/?title=Take_Exam) </li><li> - [ ] Exam Result Failed</li><li> - [x] Exam Result Pass</li></ul>| Training Start At 17-21 July 2023 | <li><lu>- [ ] SAS/STA Certified Engineer (Expired)</li><li>- [ ] Luna 7 Certified Engineer (Expired)</li><li>- [x] Payshield 10K Certified Engineer</li><li>- [x] Cisco Duo Administration & Security</li><li>- [x] Cisco Specialist WSA</li><li>- [x] Thales Ciphertrust Manager Professional</li></lu> |
 | Faisal Irsyadi | Trellix DLP & Device Controll Administration Onsite | <ul><li> - [x] ![0%](https://progress-bar.dev/0/?title=Submit_Evans) </li><li> - [ ] ![0%](https://progress-bar.dev/0/?title=Training_On_Progress) </li><li> - [ ] ![0%](https://progress-bar.dev/0/?title=Take_Exam) </li><li> - [ ] Exam Result Failed</li><li> - [ ] Exam Result Pass</li></ul>| Training Start Mid July 2023 | <ul><li>- [ ] Luna 7 Certified Engineer (Expired)</li><li>- [x] Payshield 10K Certified Engineer</li></lu> |
 | Oktafian | <ul><li>Zscaler Internet Access Professional</li></ul> | <ul><li> - [x] ![100%](https://progress-bar.dev/100/?title=Submit_Evans) </li><li> - [ ] ![70%](https://progress-bar.dev/70/?title=Training_On_Progress) </li><li> - [ ] ![0%](https://progress-bar.dev/0/?title=Take_Exam) </li><li> - [ ] Exam Result Failed</li><li> - [ ] Exam Result Pass</li></ul>| N/A | <ul><li>- [x] Forti NSE 3</li><li>- [x] Cisco Duo Administration & Security</li><li>- [x] Zscaler Internet Access Administrator (ZIA Administrator) </li><li>- [x] Zscaler Zero Trust Architect (ZTCA)</li></lu> |
