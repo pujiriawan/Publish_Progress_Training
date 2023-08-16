@@ -20,7 +20,8 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 | | <ul><li>- [ ] Hashicorp Vault Associate Exam </li></ul> | <ul><li> - [ ] Passed</li><li> - [ ] Failed </li></ul>|  30 September 2023 | |
 | | <ul><li>Zscaler Internet Access Professional</li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| 30 Oktober 2023 | |
 | Anggi Armi | <ul><li>Zscaler Internet Access Professional</li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| 7 September 2023  | <ul><li>- [ ] Versasec Certified Engineer (Expired)</li><li>- [ ] Forti NSE 4 (Expired)</li><li>- [ ] Cisco Duo Administration & Security</li></lu> |
-| Theodorus | <ul><li>- [ ] Thales Ciphertrust Official Course Evans</li></ul>  | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | 15 September 2023 | N/A |
+| Theodorus | <ul><li>- [x] Hashicorp Vault Associate Exam</li></ul>  | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul> | 16 September 2023 <ul><li> - [x] Passed</li><li> - [ ] Failed </li></ul> | N/A |
+|  | <ul><li>- [ ] Thales Ciphertrust Official Course Evans</li></ul>  | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | 15 September 2023 | N/A |
 
 # Special Assigment for Engineer into PoC 
 | Customer Name | Engineer Post Sales | Engineer Presales | Technology Name | Progress | Notes |
