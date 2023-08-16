@@ -7,7 +7,7 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 
 | Nama Engineer | Training dan Sertifikasi | Progress | Target Course dan Exam  | List Sertifikasi |
 |---------------------|-----------------------|----------|--------|-------------------------|
-| Puji Riawan | <ul><li>- [x] Hashicorp Vault Implementation Foundation </li></ul> | <ul><li> - [x] ![80%](https://progress-bar.dev/80/) </li></ul>| 18 Agustu 2023 | <li><lu>- [ ] SAS/STA Certified Engineer (Expired)</li><li>- [ ] Luna 7 Certified Engineer (Expired)</li><li>- [x] Payshield 10K Certified Engineer</li><li>- [x] Cisco Duo Administration & Security</li><li>- [x] Thales Ciphertrust Manager Professional</li></lu> |
+| Puji Riawan | <ul><li>- [x] Hashicorp Vault Implementation Foundation </li></ul> | <ul><li> - [x] ![80%](https://progress-bar.dev/80/) </li></ul>| 18 Agustu 2023 | <li><ul>- [ ] SAS/STA Certified Engineer (Expired)</li><li>- [ ] Luna 7 Certified Engineer (Expired)</li><li>- [x] Payshield 10K Certified Engineer</li><li>- [x] Cisco Duo Administration & Security</li><li>- [x] Thales Ciphertrust Manager Professional</li></ul> |
 | | <ul><li>- [ ] Vault Advanced Data Protection with Transform</li></ul> | <ul><li> - [x] ![0%](https://progress-bar.dev/0/) </li></ul>| 22 Agustus 2023 | |
 | | <ul><li>- [ ] Udemy HashiCorp Certified: Vault Associate Practice Exam 2023</li></ul> | <ul><li> - [x] ![0%](https://progress-bar.dev/0/) </li></ul>| 22 Agustus 2023 | |
 | | <ul><li>- [ ] Hashicorp Vault Associate Exam </li></ul> | <ul><li> - [ ] Passed</li><li> - [ ] Failed </li></ul>|  30 Agustus 2023 | |
@@ -20,7 +20,7 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 | | <ul><li>- [ ] Hashicorp Vault Associate Exam </li></ul> | <ul><li> - [ ] Passed</li><li> - [ ] Failed </li></ul>|  30 September 2023 | |
 | | <ul><li>Zscaler Internet Access Professional</li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| 30 Oktober 2023 | |
 | Anggi Armi | <ul><li>Zscaler Internet Access Professional</li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| 7 September 2023  | <ul><li>- [ ] Versasec Certified Engineer (Expired)</li><li>- [ ] Forti NSE 4 (Expired)</li><li>- [ ] Cisco Duo Administration & Security</li></lu> |
-| Theodorus | <ul><li>- [x] Hashicorp Vault Associate Exam</li></ul>  | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul> | 16 September 2023 <ul><li> - [x] Passed</li><li> - [ ] Failed </li></ul> | N/A |
+| Theodorus | <ul><li>- [x] Hashicorp Vault Associate Exam</li></ul>  | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul> | 16 September 2023 <ul><li> - [x] Passed</li><li> - [ ] Failed </li></ul> | <li><ul>- [ ] Hashicorp Vault Associate</li></ul> |
 |  | <ul><li>- [ ] Thales Ciphertrust Official Course Evans</li></ul>  | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | 15 September 2023 | N/A |
 
 # Special Assigment for Engineer into PoC 
