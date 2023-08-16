@@ -1,7 +1,3 @@
-| 1 | 2 |
-|---|---|
-| > | 1 |
-
 # Summary Course Assigment To-Do, Assignment Certification and Certification Holder Team Delivery
 Gambar dibawah ini merupakan traning dan sertifikasi path yang harus diambil oleh team delivery.
 ![Assignment Training dan Sertifikasi](./Reference/Training_Program_Delivery_Team.drawio.svg)
