@@ -18,8 +18,8 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 | | <ul><li>- [ ] Vault Advanced Data Protection with Transform</li></ul> | <ul><li> - [x] ![0%](https://progress-bar.dev/0/) </li></ul>| 7 September 2023 | |
 | | <ul><li>- [ ] Udemy HashiCorp Certified: Vault Associate Practice Exam 2023</li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| 15 September 2023 | |
 | | <ul><li>- [ ] Hashicorp Vault Associate Exam </li></ul> | <ul><li> - [ ] Passed</li><li> - [ ] Failed </li></ul>|  30 September 2023 | |
-| | <ul><li>Zscaler Internet Access Professional</li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| 30 Oktober 2023 | |
-| Anggi Armi | <ul><li>Zscaler Internet Access Professional</li></ul> | <ul><li> - [ ] ![3%](https://progress-bar.dev/30/) </li></ul>| 7 September 2023  | <ul><li>- [ ] Versasec Certified Engineer (Expired)</li><li>- [ ] Forti NSE 4 (Expired)</li><li>- [ ] Cisco Duo Administration & Security</li></lu> |
+| | <ul><li> - [ ] Zscaler Internet Access Professional</li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| 30 Oktober 2023 | |
+| Anggi Armi | <ul><li> - [ ] Zscaler Internet Access Professional</li></ul> | <ul><li> - [ ] ![3%](https://progress-bar.dev/30/) </li></ul>| 7 September 2023  | <ul><li>- [ ] Versasec Certified Engineer (Expired)</li><li>- [ ] Forti NSE 4 (Expired)</li><li>- [ ] Cisco Duo Administration & Security</li></lu> |
 | Theodorus | <ul><li>- [x] Hashicorp Vault Associate Exam</li></ul>  | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul> | <ul><li> - [x] Passed</li><li> - [ ] Failed </li></ul> | <ul><li>- [x] Hashicorp Vault Associate</li></ul> |
 | | <ul><li>- [x] Hashicorp Vault Professional</li></ul>  | <ul><li> - [x] ![10%](https://progress-bar.dev/10/) </li></ul> | 18 Oktober 2023 <ul><li> - [ ] Passed</li><li> - [ ] Failed </li></ul> |  |
 
