@@ -29,7 +29,7 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 |---------------|---------------------|-------------------|-----------------|----------|-------|
 | BTN | Anggi Armi & Puji | Yonatan S | Ciphertrust | <ul><li>- [x] ![100%](https://progress-bar.dev/100/) </li></ul> | N/A |
 | Bank Jateng | Puji | Yonathan | Ciphertust for API Backend |  <ul><li>- [x] ![100%](https://progress-bar.dev/100/) </li></ul> | N/A |
-| BCA | Puji | Yonathan | Guardium Data Encryption |  <ul><li>- [x] ![100%](https://progress-bar.dev/100/) </li></ul> | N/A |
+| BCA | Puji | Yonathan | Guardium Data Encryption |  <ul><li>- [x] ![0%](https://progress-bar.dev/0/) </li></ul> | N/A |
 
 # Summary Course Assigment To-Do, Assignment Certification and Certification Holder Team Standby
 Gambar dibawah ini merupakan traning dan sertifikasi path yang harus diambil oleh team standby.
