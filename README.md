@@ -1,5 +1,3 @@
-# Summary Projek
-![REPORT](https://docs.google.com/spreadsheets/d/e/2PACX-1vTODdEcOtEWBTd5ZxniFIjGCAZOLQKy6ZMQumi-04s58uECKyhC9ykdlT-bIPgfQBz-dsQ0bqD3Qy9S/pubhtml?gid=1038692048&single=true)
 # Summary Course Assigment To-Do, Assignment Certification and Certification Holder Team Delivery
 Gambar dibawah ini merupakan traning dan sertifikasi path yang harus diambil oleh team delivery.
 ![Assignment Training dan Sertifikasi](./Reference/Training_Program_Delivery_Team.drawio.svg)
