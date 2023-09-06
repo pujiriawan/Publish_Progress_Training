@@ -11,7 +11,7 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 | | <ul><li>- [x] [Slide Vault Advanced Data Protection with Transform](https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/adp/#1)</li><li>- [x] [Lab Advanced Data Protection with Transform](https://play.instruqt.com/hashicorp/invite/gcxrr3ppjmr6)</li></ul> | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul>| 22 Agustus 2023 | |
 | | <ul><li>- [ ] Udemy HashiCorp Certified: Vault Associate Practice Exam 2023</li></ul> | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul>| 22 Agustus 2023 | |
 | | <ul><li>- [ ] Hashicorp Vault Associate Exam </li></ul> | <ul><li> - [ ] Passed</li><li> - [ ] Failed </li></ul>|  30 Agustus 2023 | |
-| | CSU LP-A: Falcon Administrator Courses and Exam | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>|  7 September 2023 | |
+| | CSU LP-A: Falcon Administrator Courses and Exam | <ul><li> - [x] ![80%](https://progress-bar.dev/80/) </li></ul>|  7 September 2023 | |
 | | CSU LP-H: Threat Hunter Courses | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>|  14 September 2023 | |
 | Ahmad Ilmawan | CSU LP-A: Falcon Administrator Courses and Exam | <ul><li> - [ ] ![78%](https://progress-bar.dev/78/) </li></ul>|  7 September 2023 | <lu><li>- [ ] SAS/STA Certified Engineer (Expired)</li><li>- [ ] Luna 7 Certified Engineer (Expired)</li><li>- [x] Payshield 10K Certified Engineer</li><li>- [x] Cisco Duo Administration & Security</li><li>- [x] Cisco Specialist WSA</li><li>- [x] Thales Ciphertrust Manager Professional</li></lu> |
 | | CSU LP-H: Threat Hunter Courses | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>|  14 September 2023 | |
