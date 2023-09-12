@@ -36,12 +36,13 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 
 
 # Special Assigment for Engineer into PoC 
-| Customer Name | Engineer Post Sales | Engineer Presales | Technology Name | Progress | Notes |
-|---------------|---------------------|-------------------|-----------------|----------|-------|
-| BTN | Anggi Armi & Puji | Yonatan S | Ciphertrust | <ul><li>- [x] ![100%](https://progress-bar.dev/100/) </li></ul> | N/A |
-| Bank Jateng | Puji | Yonathan | Ciphertust for API Backend |  <ul><li>- [x] ![100%](https://progress-bar.dev/100/) </li></ul> | N/A |
-| BCA | Puji | Yonathan | Guardium Data Encryption |  <ul><li>- [x] ![0%](https://progress-bar.dev/0/) </li></ul> | N/A |
-
+| Customer Name | First Engineer Post Sales | Second Engineer Post Sales |Engineer Presales | Technology Name | Progress | Notes |
+|---------------|---------------------|----------|-------------------|-----------------|----------|-------|
+| BTN | Puji | Armi | Yonatan S | Ciphertrust | <ul><li>- [x] ![100%](https://progress-bar.dev/100/) </li></ul> | N/A |
+| Bank Jateng | Theodorus | Puji | Yonathan | Ciphertust for API Backend |  <ul><li>- [x] ![100%](https://progress-bar.dev/100/) </li></ul> | N/A |
+| BCA | Puji | Ahmad | Yonathan | Guardium Data Encryption |  <ul><li>- [x] ![0%](https://progress-bar.dev/0/) </li></ul> | N/A |
+| Superbank | Oktafian | Theodorus | Adil Aldianto Nooril | Cisco Duo |  <ul><li>- [x] ![0%](https://progress-bar.dev/0/) </li></ul> | N/A |
+| Sequis | Armi | Theodorus | Adil Aldianto Nooril | Cisco Duo Integrated Palo Alto VPN |  <ul><li>- [x] ![0%](https://progress-bar.dev/0/) </li></ul> | N/A |
 # Summary Course Assigment To-Do, Assignment Certification and Certification Holder Team Maintenance Support
 Gambar dibawah ini merupakan traning dan sertifikasi path yang harus diambil oleh team maintenance support.
 ![Assignment Training dan Sertifikasi](./Reference/Training_Program_Standby_Team.drawio.svg)
