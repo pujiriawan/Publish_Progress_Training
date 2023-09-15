@@ -29,7 +29,7 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 | | <ul><li>- [ ] Thales ProtectServer Professional Course </li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | <ul><li> - [ ] Passed</li><li> - [ ] Failed </li></ul> [20-21 September 2023](https://cpl.thalesgroup.com/technical-training-calendar/2023/09/apac/Thales-ProtectServer-certification-online) | |
 | | <ul><li>- [ ] Web Security Appliance (WSA Cisco) Course </li></ul> | <ul><li> - [ ] ![98%](https://progress-bar.dev/98/) </li></ul> | <ul><li> - [ ] Passed</li><li> - [ ] Failed </li></ul> | |
 | Theodorus | <ul><li>- [x] Hashicorp Vault Associate Exam</li></ul>  | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul> | <ul><li> - [x] Passed</li><li> - [ ] Failed </li></ul> | <ul><li>- [x] Hashicorp Vault Associate</li></ul> |
-| | <ul><li>- [ ] Implement Okta Access Gateway, OAG</li></ul>  | <ul><li> - [ ] ![30%](https://progress-bar.dev/30/) </li></ul> | 5 September 2023 |  |
+| | <ul><li>- [ ] Implement Okta Access Gateway, OAG</li></ul>  | <ul><li> - [ ] ![40%](https://progress-bar.dev/40/) </li></ul> | 5 September 2023 |  |
 | | <ul><li>- [ ] Implement Advanced Server Access, ASA</li></ul>  | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | 7 September 2023 |  |
 | | <ul><li>- [ ] Partners: Advanced Server Access</li></ul>  | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | 8 September 2023 |  |
 | | <ul><li>- [ ] Partners: Okta Workflows - Technical Readiness</li></ul>  | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | 11 September 2023 |  |
