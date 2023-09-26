@@ -14,7 +14,7 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 | | CSU LP-A: Falcon Administrator Courses and Exam | <ul><li> - [x] ![80%](https://progress-bar.dev/80/) </li></ul>|  7 September 2023 | |
 | | CSU LP-H: Threat Hunter Courses | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>|  14 September 2023 | |
 | Ahmad Ilmawan | CSU LP-A: Falcon Administrator Courses and Exam | <ul><li> - [ ] ![100%](https://progress-bar.dev/100/) </li></ul>|  7 September 2023 Plan to Take Exam | <lu><li>- [ ] SAS/STA Certified Engineer (Expired)</li><li>- [ ] Luna 7 Certified Engineer (Expired)</li><li>- [x] Payshield 10K Certified Engineer</li><li>- [x] Cisco Duo Administration & Security</li><li>- [x] Cisco Specialist WSA</li><li>- [x] Thales Ciphertrust Manager Professional</li></lu> |
-| | CSU LP-H: Threat Hunter Courses | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>|  Pass Exam  | Plan to Exam W1/W2 October |
+| | CSU LP-H: Threat Hunter Courses | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| Plan to Exam  | Plan to Exam W2/W3 October |
 | | ZIA Administrator | <ul><li> - [ ] ![100%](https://progress-bar.dev/100/) </li></ul>|  Pass Exam August 2023  | <lu><li>- [x] ZIA Administrator </li></lu> |
 | | Zero Trust Certified Architect | <ul><li> - [ ] ![100%](https://progress-bar.dev/100/) </li></ul>|  Pass Exam Sept 2023 | <lu><li>- [x] Zero Trust Certified Architect </li></lu> |
 | | Zscaler Internet Access Professional | <ul><li> - [ ] ![15%](https://progress-bar.dev/15/) </li></ul>|   September 2023 | Plan to Exam W1 October |
