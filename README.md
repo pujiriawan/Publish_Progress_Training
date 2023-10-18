@@ -17,7 +17,7 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 | | CSU LP-H: Threat Hunter Courses | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| Plan to Exam  | Plan to Exam W2/W3 October |
 | | ZIA Administrator | <ul><li> - [ ] ![100%](https://progress-bar.dev/100/) </li></ul>|  Pass Exam August 2023  | <lu><li>- [x] ZIA Administrator </li></lu> |
 | | Zero Trust Certified Architect | <ul><li> - [ ] ![100%](https://progress-bar.dev/100/) </li></ul>|  Pass Exam Sept 2023 | <lu><li>- [x] Zero Trust Certified Architect </li></lu> |
-| | Zscaler Internet Access Professional | <ul><li> - [ ] ![15%](https://progress-bar.dev/15/) </li></ul>|   September 2023 | Plan to Exam W1 October |
+| | Zscaler Internet Access Professional | <ul><li> - [ ] ![100%](https://progress-bar.dev/100/) </li></ul>|  September 2023 | <lu><li>- [x] ZIA Certified Professional </li></lu> |
 | Oktafian | <ul><li> - [x] Zscaler Internet Access Professional</li></ul> | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul>| 6 September 2023 |  <ul><li>- [x] Forti NSE 3</li><li>- [x] Cisco Duo Administration & Security</li><li>- [x] Zscaler Internet Access Administrator (ZIA Administrator) </li><li>- [x] Zscaler Zero Trust Architect (ZTCA)</li></lu> |
 | | <ul><li>- [x] Thales Payshield 10K Certification Professional Course</li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | <ul><li> - [ ] Passed</li><li> - [ ] Failed </li></ul> [6-9 November 2023 APAC](https://cpl.thalesgroup.com/technical-training-calendar/2023/11/apac/Thales-payShield-certification-online) | |
 | | <ul><li>- [x] Hashicorp Vault Implementation Foundation </li></ul> | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul>| 8 September 2023 | |
