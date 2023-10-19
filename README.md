@@ -33,7 +33,7 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 | | <ul><li>- [ ] Web Security Appliance (WSA Cisco) Course </li></ul> | <ul><li> - [ ] ![98%](https://progress-bar.dev/98/) </li></ul> | <ul><li> - [ ] Passed</li><li> - [ ] Failed </li></ul> | |
 | Theodorus | <ul><li>- [x] Hashicorp Vault Associate Exam</li></ul>  | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul> | <ul><li> - [x] Passed</li><li> - [ ] Failed </li></ul> | <ul><li>- [x] Hashicorp Vault Associate</li></ul> |
 | | <ul><li>- [x] Implement Okta Access Gateway, OAG</li></ul>  | <ul><li> - [x] ![10%](https://progress-bar.dev/100/) </li></ul> | 5 September 2023 |  |
-| | <ul><li>- [ ] Implement Advanced Server Access, ASA</li></ul>  | <ul><li> - [ ] ![20%](https://progress-bar.dev/20/) </li></ul> | 7 September 2023 |  |
+| | <ul><li>- [x] Implement Advanced Server Access, ASA</li></ul>  | <ul><li> - [x] ![30%](https://progress-bar.dev/30/) </li></ul> | 7 September 2023 |  |
 | | <ul><li>- [ ] Partners: Advanced Server Access</li></ul>  | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | 8 September 2023 |  |
 | | <ul><li>- [ ] Partners: Okta Workflows - Technical Readiness</li></ul>  | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | 11 September 2023 |  |
 | | <ul><li>- [ ] Partner: Introduction to Multi-Tenancy</li></ul>  | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | 11 September 2023 |  |
