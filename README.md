@@ -19,7 +19,7 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 | Anggi Armi | <ul><li> - [ ] Zscaler Internet Access Professional</li></ul> | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul>| ZIA Written Exam 19 Oktober 2023  | <ul><li>- [ ] Versasec Certified Engineer (Expired)</li><li>- [ ] Forti NSE 4 (Expired)</li><li>- [ ] Cisco Duo Administration & Security</li></lu> |
 | | <ul><li>- [x] Hashicorp Vault Associate </li></ul>  | <ul><li> - [x] ![70%](https://progress-bar.dev/70/) </li></ul> | 30 Oktober 2023 </li></ul> |  |
 | | <ul><li>- [ ] Thales ProtectServer Professional Course </li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | <ul><li> - [ ] Passed</li><li> - [ ] Failed </li></ul> [05-07 Desember 2023](https://cpl.thalesgroup.com/technical-training-calendar/2023/09/apac/Thales-ProtectServer-certification-online) | |
-| Theodorus | <ul><li>- [x] Password Safe - BCIE </li></ul>  | <ul><li> - [x] ![50%](https://progress-bar.dev/50/) </li></ul> | 30 Oktober 2023 </li></ul> | <ul><li>- [x] Hashicorp Vault Associate</li></ul> |
+| Theodorus | <ul><li>- [x] Password Safe - BCIE </li></ul>  | <ul><li> - [x] ![70%](https://progress-bar.dev/70/) </li></ul> | 30 Oktober 2023 </li></ul> | <ul><li>- [x] Hashicorp Vault Associate</li></ul> |
 | | <ul><li>- [x] Implement Okta Access Gateway, OAG</li></ul>  | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul> | 5 September 2023 |  |
 
 
