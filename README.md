@@ -47,7 +47,7 @@ Progress untuk masing - masing individu adalah sebagai berikut ini :
 | | <ul><li>- [ ] Udemy HashiCorp Certified: Vault Associate Practice Exam 2023</li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| 11 September 2023 | |
 | | <ul><li>- [ ] payShield 10K Certification Course 2023 </li></ul> | <ul><li>- [ ] ![0%](https://progress-bar.dev/0/) </li></ul> | 15 September 2023 | |
 | Seto Carel | <ul><li>- [x] Thales SAS PCE Implementation Foundation </li></ul> | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul>| <ul><li> - [x] DONE </li></ul> | <ul><li>- [x] AWS Cloud Practitioner</li></ul> |
-| | <ul><li>- [ ] Hashicorp Vault Implementation Foundation </li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| 8 September 2023 | |
+| | <ul><li>- [x] Hashicorp Vault Implementation Foundation </li></ul> | <ul><li> - [x] ![30%](https://progress-bar.dev/30/) </li></ul>| 8 September 2023 | |
 | | <ul><li>- [ ] [Slide Vault Advanced Data Protection with Transform](https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/adp/#1)</li><li>- [ ] [Lab Advanced Data Protection with Transform](https://play.instruqt.com/hashicorp/invite/gcxrr3ppjmr6)</li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| 12 September 2023 | |
 | | <ul><li>- [ ] Udemy HashiCorp Certified: Vault Associate Practice Exam 2023</li></ul> | <ul><li> - [ ] ![0%](https://progress-bar.dev/0/) </li></ul>| 14 September 2023 | |
 | Zihni | <ul><li>- [x] Thales SAS PCE Implementation Foundation </li></ul> | <ul><li> - [x] ![100%](https://progress-bar.dev/100/) </li></ul>| <ul><li> - [x] DONE </li></ul> | |
